@@ -1,0 +1,113 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+__pycache__/
+dist/
+build/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# SageMath
+.sageMath/
+.sageMathCellModel
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Pipenv
+/.venv
+/pip-selfcheck.json
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Sublime Text settings
+.sublime-project
+.sublime-workspace
+
+# PyCharm settings
+.idea/
+
+# JupyterLab settings
+.jupyter/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+/.vscode/
+/.idea/
+
+# Visual Studio Code directories
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python pycache
+__pycache__/
