@@ -33,4 +33,4 @@ python gui.py
 
 ## Dashboard Demo
 
-![Demo](E:\projects\dashboard\demo.gif)
+![Demo](https://github.com/yalma-tgh/dashboard/blob/main/demo.gif)
